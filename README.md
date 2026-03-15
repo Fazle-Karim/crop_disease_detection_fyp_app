@@ -223,7 +223,7 @@ Implement data augmentation
 👨‍💻 Author
 Fazle Karim
 
-📧 Email: fazlekarim@gmail.com
+📧 Email: fazlekarim917@gmail.com
 
 🐙 GitHub: @Fazle-Karim
 
@@ -235,8 +235,8 @@ Dataset: 2000 labeled crop leaf images across 10 classes
 
 ResNet50: Pre-trained on ImageNet
 
-FYP Supervisor: Dr. [Supervisor Name]
+FYP Supervisor: Dr. Hammood Ur Rehman Durrani
 
-Made with ❤️ for FYP 2026
+
 
 Model Accuracy: 92.16% (5-Fold Cross Validation)
