@@ -1,25 +1,4 @@
-# Crop Disease Detection System
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-...
-And ends with:
-
-markdown
-**Model Accuracy**: 92.16% (5-Fold Cross Validation)
-❌ What NOT to Copy:
-## 📋 COPY EVERYTHING FROM HERE:
-
-## TO HERE
-
-Any other instruction text
-
-📝 Simple Rule:
-If it starts with # Crop Disease Detection System and has markdown formatting, copy it. If it's telling you what to do, don't copy it.
-
-Just copy the clean README content I provided in my last message and paste it into your file.
-
-ok now just provide the readme.md content no instructions for me
-markdown
 # Crop Disease Detection System
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
